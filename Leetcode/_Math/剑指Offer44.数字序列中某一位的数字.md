@@ -1,4 +1,4 @@
-# 3.无重复字符的最长子串
+# 12.整数转罗马数字
 
 ## 题目：
 
@@ -45,19 +45,26 @@
 
 ```python
 class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
-        tmp = {}
-        left = 0
-        ret = 0
-        for i, j in enumerate(s):
-            if j in tmp:
-                # 如果重复的数字出现在l之前忽略，否则了跳到该值的下一个位置
-                left = max(left, tmp[j] + 1)
-            tmp[j] = i
-            ret = max(ret, i - left + 1)
-        return ret
+    def findNthDigit(self, n: int) -> int:
+        if n < 10:
+            return n
+        n -= 9
+        count = 1
+        while True:
+            num = 10 ** count * 9 * (count + 1)
+            if n > num:
+                n -= num
+                count += 1
+            else:
+                i, j = divmod(n, (count + 1))
+                if not j:
+                    return int(str(10 ** count + i - 1)[-1])
+                else:
+                    return int(str(10 ** count + i)[j - 1])
 ```
 
 欢迎关注我的公众号: **清风Python**
 
 我的个人博客：[https://qingfengpython.cn](https://qingfengpython.cn)
+
+
