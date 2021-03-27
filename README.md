@@ -1,0 +1,34 @@
+| 编 号 | 分 类 | 题 目 | 难 度 | 我的解题 | 力扣题目链接 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+|1|HashMap|1.两数之和|简单|[1.两数之和](markdown/算法之美/_HashMap/1.两数之和.md)|[点击跳转](https://leetcode-cn.com/problems/two-sum/)|
+|2|Pointer|3.无重复字符的最长子串|中等|[3.无重复字符的最长子串](markdown/算法之美/_Pointer/3.无重复字符的最长子串.md)|[点击跳转](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|
+|3|String|8.字符串转换整数|中等|[8.字符串转换整数](markdown/算法之美/_String/8.字符串转换整数.md)|[点击跳转](https://leetcode-cn.com/problems/string-to-integer-atoi/)|
+|4|Array|12.整数转罗马数字|中等|[12.整数转罗马数字](markdown/算法之美/_Array/12.整数转罗马数字.md)|[点击跳转](https://leetcode-cn.com/problems/integer-to-roman/)|
+|5|HashMap|13.罗马数字转整数|简单|[13.罗马数字转整数](markdown/算法之美/_HashMap/13.罗马数字转整数.md)|[点击跳转](https://leetcode-cn.com/problems/roman-to-integer/)|
+|6|Stack|20.有效的括号|简单|[20.有效的括号](markdown/算法之美/_Stack/20.有效的括号.md)|[点击跳转](https://leetcode-cn.com/problems/valid-parentheses/)|
+|7|Array|26.删除有序数组中的重复项|简单|[26.删除有序数组中的重复项](markdown/算法之美/_Array/26.删除有序数组中的重复项.md)|[点击跳转](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|
+|8|Array|34.在排序数组中查找元素的第一个和最后一个位置|中等|[34.在排序数组中查找元素的第一个和最后一个位置](markdown/算法之美/_Array/34.在排序数组中查找元素的第一个和最后一个位置.md)|[点击跳转](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|
+|9|Array|54.螺旋矩阵|中等|[54.螺旋矩阵](markdown/算法之美/_Array/54.螺旋矩阵.md)|[点击跳转](https://leetcode-cn.com/problems/spiral-matrix/)|
+|10|Array|59.螺旋矩阵II|中等|[59.螺旋矩阵II](markdown/算法之美/_Array/59.螺旋矩阵II.md)|[点击跳转](https://leetcode-cn.com/problems/spiral-matrix/)|
+|11|Stack|71.简化路径|中等|[71.简化路径](markdown/算法之美/_Stack/71.简化路径.md)|[点击跳转](https://leetcode-cn.com/problems/simplify-path/)|
+|12|Array|73.矩阵置零|中等|[73.矩阵置零](markdown/算法之美/_Array/73.矩阵置零.md)|[点击跳转](https://leetcode-cn.com/problems/set-matrix-zeroes/)|
+|13|Pointer|75.颜色分类|中等|[75.颜色分类](markdown/算法之美/_Pointer/75.颜色分类.md)|[点击跳转](https://leetcode-cn.com/problems/sort-colors/)|
+|14|LinkedList|92.反转链表II|None|[92.反转链表II](markdown/算法之美/_LinkedList/92.反转链表II.md)|[点击跳转](None)|
+|15|Array|118.杨辉三角|简单|[118.杨辉三角](markdown/算法之美/_Array/118.杨辉三角.md)|[点击跳转](https://leetcode-cn.com/problems/pascals-triangle/)|
+|16|Array|119.杨辉三角II|简单|[119.杨辉三角II](markdown/算法之美/_Array/119.杨辉三角II.md)|[点击跳转](https://leetcode-cn.com/problems/pascals-triangle-ii/)|
+|17|Stack|150.逆波兰表达式求值|中等|[150.逆波兰表达式求值](markdown/算法之美/_Stack/150.逆波兰表达式求值.md)|[点击跳转](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|
+|18|Stack|155.最小栈|简单|[155.最小栈](markdown/算法之美/_Stack/155.最小栈.md)|[点击跳转](https://leetcode-cn.com/problems/min-stack/)|
+|19|String|191.位1的个数|简单|[191.位1的个数](markdown/算法之美/_String/191.位1的个数.md)|[点击跳转](https://leetcode-cn.com/problems/number-of-1-bits/)|
+|20|Array|341.扁平化嵌套列表迭代器|中等|[341.扁平化嵌套列表迭代器](markdown/算法之美/_Array/341.扁平化嵌套列表迭代器.md)|[点击跳转](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|
+|21|Math|400.第N位数字|中等|[400.第N位数字](markdown/算法之美/_Math/400.第N位数字.md)|[点击跳转](https://leetcode-cn.com/problems/nth-digit/)|
+|22|Stack|456.132模式|中等|[456.132模式](markdown/算法之美/_Stack/456.132模式.md)|[点击跳转](https://leetcode-cn.com/problems/132-pattern/)|
+|23|HashMap|567.字符串的排列|中等|[567.字符串的排列](markdown/算法之美/_HashMap/567.字符串的排列.md)|[点击跳转](https://leetcode-cn.com/problems/permutation-in-string/)|
+|24|Stack|682.棒球比赛|简单|[682.棒球比赛](markdown/算法之美/_Stack/682.棒球比赛.md)|[点击跳转](https://leetcode-cn.com/problems/baseball-game/)|
+|25|Stack|844.比较含退格的字符串|简单|[844.比较含退格的字符串](markdown/算法之美/_Stack/844.比较含退格的字符串.md)|[点击跳转](https://leetcode-cn.com/problems/backspace-string-compare/)|
+|26|HashMap|剑指Offer53-I.在排序数组中查找数字I|中等|[剑指Offer53-I.在排序数组中查找数字I](markdown/算法之美/_HashMap/剑指Offer53-I.在排序数组中查找数字I.md)|[点击跳转](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)|
+|27|Math|剑指Offer44.数字序列中某一位的数字|中等|[剑指Offer44.数字序列中某一位的数字](markdown/算法之美/_Math/剑指Offer44.数字序列中某一位的数字.md)|[点击跳转](https://leetcode-cn.com/problems/integer-to-roman/)|
+|28|String|1004.最大连续1的个数III|简单|[1004.最大连续1的个数III](markdown/算法之美/_String/1004.最大连续1的个数III.md)|[点击跳转](https://leetcode-cn.com/problems/number-of-1-bits/)|
+|29|Array|1603.设计停车系统|简单|[1603.设计停车系统](markdown/算法之美/_Array/1603.设计停车系统.md)|[点击跳转](https://leetcode-cn.com/problems/design-parking-system/)|
+|30|Project|5694.设计一个验证系统|中等|[5694.设计一个验证系统](markdown/算法之美/_Project/5694.设计一个验证系统.md)|[点击跳转](https://leetcode-cn.com/problems/design-authentication-manager/solution/5694she-ji-yi-ge-yan-zheng-xi-tong-by-qi-bsy3/)|
+|31|Array|5709.最大升序子数组和|睡觉|[5709.最大升序子数组和](markdown/算法之美/_Array/5709.最大升序子数组和.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/solution/5709zui-da-sheng-xu-zi-shu-zu-he-pythony-3gdj/)|
+|32|Array|5712.你能构造出连续值的最大数目|中等|[5712.你能构造出连续值的最大数目](markdown/算法之美/_Array/5712.你能构造出连续值的最大数目.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-number-of-consecutive-values-you-can-make/solution/5712ni-neng-gou-zao-chu-lian-xu-zhi-de-z-1zk4/)|
