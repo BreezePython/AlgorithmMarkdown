@@ -1,5 +1,11 @@
 # Algorithm coding practice with Python3.
 
+> https://github.com/BreezePython/AlgorithmMarkdown
+
+欢迎关注我的公众号: **清风Python**
+
+我的个人博客：[https://qingfengpython.cn](https://qingfengpython.cn)
+
 | 编 号 | 分 类 | 题 目 | 难 度 | 我的解题 | 力扣题目链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |1|HashMap|1.两数之和|简单|[1.两数之和](Leetcode/_HashMap/1.两数之和.md)|[点击跳转](https://leetcode-cn.com/problems/two-sum/)|
@@ -41,8 +47,3 @@
 |37|Project|5694.设计一个验证系统|中等|[5694.设计一个验证系统](Leetcode/_Project/5694.设计一个验证系统.md)|[点击跳转](https://leetcode-cn.com/problems/design-authentication-manager/solution/5694she-ji-yi-ge-yan-zheng-xi-tong-by-qi-bsy3/)|
 |38|Array|5709.最大升序子数组和|简单|[5709.最大升序子数组和](Leetcode/_Array/5709.最大升序子数组和.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/solution/5709zui-da-sheng-xu-zi-shu-zu-he-pythony-3gdj/)|
 |39|Array|5712.你能构造出连续值的最大数目|中等|[5712.你能构造出连续值的最大数目](Leetcode/_Array/5712.你能构造出连续值的最大数目.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-number-of-consecutive-values-you-can-make/solution/5712ni-neng-gou-zao-chu-lian-xu-zhi-de-z-1zk4/)|
-
-
-欢迎关注我的公众号: **清风Python**
-
-我的个人博客：[https://qingfengpython.cn](https://qingfengpython.cn)

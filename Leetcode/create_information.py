@@ -69,5 +69,6 @@ class MakeAlgorithmMarkdownTable:
 
 
 if __name__ == '__main__':
-    m = MakeAlgorithmMarkdownTable(r'D:\blog\markdown\算法之美')
+    # m = MakeAlgorithmMarkdownTable(r'D:\blog\markdown\算法之美')
+    m = MakeAlgorithmMarkdownTable(r'D:\AlgorithmMarkdown\Leetcode')
     m.run()
