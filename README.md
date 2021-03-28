@@ -1,3 +1,4 @@
+
 # Algorithm coding practice with Python3.
 
 > https://github.com/BreezePython/AlgorithmMarkdown
@@ -6,8 +7,8 @@
 
 我的个人博客：[https://qingfengpython.cn](https://qingfengpython.cn)
 
-| 编 号 | 分 类 | 题 目 | 难 度 | 我的解题 | 力扣题目链接 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
+| 编 号  | 分 类 | 题 目 | 难 度 | 我的解题 | 力扣题目链接 |
+| ----- | ----- | ---- | ---- |  ------ |  --------  |
 |1|HashMap|1.两数之和|简单|[1.两数之和](Leetcode/_HashMap/1.两数之和.md)|[点击跳转](https://leetcode-cn.com/problems/two-sum/)|
 |2|Pointer|3.无重复字符的最长子串|中等|[3.无重复字符的最长子串](Leetcode/_Pointer/3.无重复字符的最长子串.md)|[点击跳转](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|
 |3|String|8.字符串转换整数|中等|[8.字符串转换整数](Leetcode/_String/8.字符串转换整数.md)|[点击跳转](https://leetcode-cn.com/problems/string-to-integer-atoi/)|
@@ -44,6 +45,9 @@
 |34|Math|剑指Offer44.数字序列中某一位的数字|中等|[剑指Offer44.数字序列中某一位的数字](Leetcode/_Math/剑指Offer44.数字序列中某一位的数字.md)|[点击跳转](https://leetcode-cn.com/problems/integer-to-roman/)|
 |35|String|1004.最大连续1的个数III|简单|[1004.最大连续1的个数III](Leetcode/_String/1004.最大连续1的个数III.md)|[点击跳转](https://leetcode-cn.com/problems/number-of-1-bits/)|
 |36|Array|1603.设计停车系统|简单|[1603.设计停车系统](Leetcode/_Array/1603.设计停车系统.md)|[点击跳转](https://leetcode-cn.com/problems/design-parking-system/)|
-|37|Project|5694.设计一个验证系统|中等|[5694.设计一个验证系统](Leetcode/_Project/5694.设计一个验证系统.md)|[点击跳转](https://leetcode-cn.com/problems/design-authentication-manager/solution/5694she-ji-yi-ge-yan-zheng-xi-tong-by-qi-bsy3/)|
-|38|Array|5709.最大升序子数组和|简单|[5709.最大升序子数组和](Leetcode/_Array/5709.最大升序子数组和.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/solution/5709zui-da-sheng-xu-zi-shu-zu-he-pythony-3gdj/)|
-|39|Array|5712.你能构造出连续值的最大数目|中等|[5712.你能构造出连续值的最大数目](Leetcode/_Array/5712.你能构造出连续值的最大数目.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-number-of-consecutive-values-you-can-make/solution/5712ni-neng-gou-zao-chu-lian-xu-zhi-de-z-1zk4/)|
+|37|Array|1806.还原排列的最少操作步数|中等|[1806.还原排列的最少操作步数](Leetcode/_Array/1806.还原排列的最少操作步数.md)|[点击跳转](https://leetcode-cn.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|
+|38|Project|5694.设计一个验证系统|中等|[5694.设计一个验证系统](Leetcode/_Project/5694.设计一个验证系统.md)|[点击跳转](https://leetcode-cn.com/problems/design-authentication-manager/solution/5694she-ji-yi-ge-yan-zheng-xi-tong-by-qi-bsy3/)|
+|39|Array|5709.最大升序子数组和|简单|[5709.最大升序子数组和](Leetcode/_Array/5709.最大升序子数组和.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/solution/5709zui-da-sheng-xu-zi-shu-zu-he-pythony-3gdj/)|
+|40|Array|5712.你能构造出连续值的最大数目|中等|[5712.你能构造出连续值的最大数目](Leetcode/_Array/5712.你能构造出连续值的最大数目.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-number-of-consecutive-values-you-can-make/solution/5712ni-neng-gou-zao-chu-lian-xu-zhi-de-z-1zk4/)|
+|41|String|5713.字符串中不同整数的数目|简单|[5713.字符串中不同整数的数目](Leetcode/_String/5713.字符串中不同整数的数目.md)|[点击跳转](https://leetcode-cn.com/problems/number-of-different-integers-in-a-string/)|
+|42|Stack|5714.替换字符串中的括号内容|中等|[5714.替换字符串中的括号内容](Leetcode/_Stack/5714.替换字符串中的括号内容.md)|[点击跳转](https://leetcode-cn.com/problems/evaluate-the-bracket-pairs-of-a-string/)|
