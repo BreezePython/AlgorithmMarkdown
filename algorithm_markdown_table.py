@@ -91,8 +91,8 @@ class MakeAlgorithmMarkdownTable:
 
 if __name__ == '__main__':
     # 历史算法解题目录
-    # MARKDOWN_PATH = r'D:\AlgorithmMarkdown\Leetcode'
-    MARKDOWN_PATH = r'D:\blog\markdown\算法之美'
+    MARKDOWN_PATH = r'D:\AlgorithmMarkdown\Leetcode'
+    # MARKDOWN_PATH = r'D:\blog\markdown\算法之美'
     # 例外文件列表
     EXCLUDE_FILES = ['readme.md', '力扣算法刷题目录.md']
     m = MakeAlgorithmMarkdownTable(MARKDOWN_PATH, EXCLUDE_FILES)
