@@ -12,20 +12,18 @@ import re
 
 # 基础模板头，个人自定义
 MARKDOWN_TABLE_TEMPLATE = """
-# 清风Python的博客
-> 欢迎大家访问我的博客，我的微信公众号 **清风Python**，坚持更新有趣的Pyhton内容。
-> 
-> 快去左侧列表挑选你喜欢的内容观看吧。
+# Algorithm coding practice with Python3.
 
-## 力扣算法刷题记录
-> 劝学 · 荀子
-> 
-> 不积跬步，无以至千里；不积小流，无以成江海。 
-> 
-> 骐骥一跃，不能十步；驽马十驾，功在不舍。
-> 
-> 锲而舍之，朽木不折；锲而不舍，金石可镂。
+> 力扣解题合集：https://github.com/BreezePython/AlgorithmMarkdown
 
+欢迎关注我的公众号: **清风Python**，带你每日学习Python算法刷题的同时，了解更多python小知识。
+
+有喜欢力扣刷题的小伙伴可以加我微信（King_Uranus）互相鼓励，共同进步，一起玩转超级码力！
+
+我的个人博客：[https://qingfengpython.cn](https://qingfengpython.cn)
+
+| 编 号  | 分 类 | 题 目 | 难 度 | 我的解题 | 力扣题目链接 |
+| ----- | ----- | ---- | ---- |  ------ |  --------  |
 """
 
 
@@ -46,7 +44,7 @@ class MakeAlgorithmMarkdownTable:
             if os.path.isfile(os.path.join(path, child)):
                 markdown_link_path = '/'.join([markdown_link_dir, child])
                 self.sidebar_info.append(
-                    f"      * [{os.path.splitext(child)[0]}](markdown/{markdown_link_dir}/{child})")
+                    f"      * [{os.path.splitext(child)[0]}]({markdown_link_dir}/{child})")
                 self.get_code_table(path, child, markdown_link_path)
             else:
                 self.sidebar_info.append(f"  - **{child}**")
@@ -55,7 +53,7 @@ class MakeAlgorithmMarkdownTable:
     def get_code_table(self, file_path, file_name, abs_path):
         algorithm_type = os.path.split(file_path)[-1].strip('_')
         code_file_name = os.path.splitext(file_name)[0]
-        git_file_link = f"[{code_file_name}](markdown/{abs_path})"
+        git_file_link = f"[{code_file_name}]({abs_path})"
         level = None
         link = None
         with open(os.path.join(file_path, file_name), 'r', encoding='utf-8') as f:
@@ -84,7 +82,7 @@ class MakeAlgorithmMarkdownTable:
     def run(self):
         self.dfs_markdown_path(self.search_path)
         self.programs.sort(key=lambda x: self.sort_title(x[1]))
-        with open(os.path.join(os.path.dirname(os.path.dirname(self.search_path)), "README.md"),
+        with open(os.path.join(os.path.dirname(self.search_path), "README.md"),
                   'w', encoding='utf-8') as readme_file:
             readme_file.write(MARKDOWN_TABLE_TEMPLATE)
             for index, info in enumerate(self.programs, start=1):
@@ -95,9 +93,8 @@ class MakeAlgorithmMarkdownTable:
 
 if __name__ == '__main__':
     # 历史算法解题目录
-    # MARKDOWN_PATH = r'D:\AlgorithmMarkdown\Leetcode'
-    MARKDOWN_PATH = r'D:\blog\markdown\算法之美'
+    MARKDOWN_PATH = r'D:\AlgorithmMarkdown\Leetcode'
     # 例外文件列表
-    EXCLUDE_FILES = ['readme.md', '力扣算法刷题目录.md']
+    EXCLUDE_FILES = ['QuickNote.md', 'algorithm_markdown_table.py', 'leetcode.py']
     m = MakeAlgorithmMarkdownTable(MARKDOWN_PATH, EXCLUDE_FILES)
     m.run()
