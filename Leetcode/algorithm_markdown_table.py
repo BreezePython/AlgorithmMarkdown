@@ -53,7 +53,8 @@ class MakeAlgorithmMarkdownTable:
     def get_code_table(self, file_path, file_name, abs_path):
         algorithm_type = os.path.split(file_path)[-1].strip('_')
         code_file_name = os.path.splitext(file_name)[0]
-        git_file_link = f"[{code_file_name}]({abs_path})"
+        # git_file_link = f"[{code_file_name}]({abs_path})"
+        git_file_link = f"[我的解题](markdown/{abs_path})"
         level = None
         link = None
         with open(os.path.join(file_path, file_name), 'r', encoding='utf-8') as f:
