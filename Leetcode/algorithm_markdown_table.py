@@ -37,7 +37,7 @@ class MakeAlgorithmMarkdownTable:
 
     def dfs_markdown_path(self, path):
         for child in os.listdir(path):
-            if child.lower() in self.excludes:
+            if child in self.excludes:
                 continue
             start_index = path.find(self.start_dirname)
             markdown_link_dir = path[start_index:].replace('\\', '/')
