@@ -58,7 +58,7 @@
 |45|Array|1806.还原排列的最少操作步数|中等|[我的解题](Leetcode/_Array/1806.还原排列的最少操作步数.md)|[点击跳转](https://leetcode-cn.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|
 |46|Project|5694.设计一个验证系统|中等|[我的解题](Leetcode/_Project/5694.设计一个验证系统.md)|[点击跳转](https://leetcode-cn.com/problems/design-authentication-manager/solution/5694she-ji-yi-ge-yan-zheng-xi-tong-by-qi-bsy3/)|
 |47|Math|5705.判断国际象棋棋盘中一个格子的颜色|简单|[我的解题](Leetcode/_Math/5705.判断国际象棋棋盘中一个格子的颜色.md)|[点击跳转](https://leetcode-cn.com/problems/determine-color-of-a-chessboard-square/)|
-|48|Math|5708.统计一个数组中好对子的数目|中等|[我的解题](Leetcode/_Math/5708.统计一个数组中好对子的数目.md)|[点击跳转](https://leetcode-cn.com/problems/count-nice-pairs-in-an-array/)|
+|48|HashMap|5708.统计一个数组中好对子的数目|中等|[我的解题](Leetcode/_HashMap/5708.统计一个数组中好对子的数目.md)|[点击跳转](https://leetcode-cn.com/problems/count-nice-pairs-in-an-array/)|
 |49|Array|5709.最大升序子数组和|简单|[我的解题](Leetcode/_Array/5709.最大升序子数组和.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/solution/5709zui-da-sheng-xu-zi-shu-zu-he-pythony-3gdj/)|
 |50|Array|5712.你能构造出连续值的最大数目|中等|[我的解题](Leetcode/_Array/5712.你能构造出连续值的最大数目.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-number-of-consecutive-values-you-can-make/solution/5712ni-neng-gou-zao-chu-lian-xu-zhi-de-z-1zk4/)|
 |51|String|5713.字符串中不同整数的数目|简单|[我的解题](Leetcode/_String/5713.字符串中不同整数的数目.md)|[点击跳转](https://leetcode-cn.com/problems/number-of-different-integers-in-a-string/)|
