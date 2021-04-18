@@ -106,3 +106,5 @@
 |93|HashMap|5723.查找用户活跃分钟数|中等|[我的解题](Leetcode/_HashMap/5723.查找用户活跃分钟数.md)|[点击跳转](https://leetcode-cn.com/problems/finding-the-users-active-minutes/)|
 |94|DP|5727.找出游戏的获胜者|中等|[我的解题](Leetcode/_DP/5727.找出游戏的获胜者.md)|[点击跳转](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)|
 |95|Array|5728.最少侧跳次数|中等|[我的解题](Leetcode/_Array/5728.最少侧跳次数.md)|[点击跳转](https://leetcode-cn.com/problems/minimum-sideway-jumps/)|
+|96|HashMap|5734.判断句子是否为全字母句|简单|[我的解题](Leetcode/_HashMap/5734.判断句子是否为全字母句.md)|[点击跳转](https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram/)|
+|97|Array|5735.雪糕的最大数量|中等|[我的解题](Leetcode/_Array/5735.雪糕的最大数量.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)|
