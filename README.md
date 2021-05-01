@@ -117,6 +117,9 @@
 |104|HashMap|5723.查找用户活跃分钟数|中等|[我的解题](Leetcode/_HashMap/5723.查找用户活跃分钟数.md)|[点击跳转](https://leetcode-cn.com/problems/finding-the-users-active-minutes/)|
 |105|DP|5727.找出游戏的获胜者|中等|[我的解题](Leetcode/_DP/5727.找出游戏的获胜者.md)|[点击跳转](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)|
 |106|Array|5728.最少侧跳次数|中等|[我的解题](Leetcode/_Array/5728.最少侧跳次数.md)|[点击跳转](https://leetcode-cn.com/problems/minimum-sideway-jumps/)|
-|107|HashMap|5734.判断句子是否为全字母句|简单|[我的解题](Leetcode/_HashMap/5734.判断句子是否为全字母句.md)|[点击跳转](https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram/)|
-|108|Array|5735.雪糕的最大数量|中等|[我的解题](Leetcode/_Array/5735.雪糕的最大数量.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)|
-|109|Math|5738.K进制表示下的各位数字总和|简单|[我的解题](Leetcode/_Math/5738.K进制表示下的各位数字总和.md)|[点击跳转](https://leetcode-cn.com/problems/sum-of-digits-in-base-k/)|
+|107|String|5730.将所有数字用字符替换|简单|[我的解题](Leetcode/_String/5730.将所有数字用字符替换.md)|[点击跳转](https://leetcode-cn.com/problems/replace-all-digits-with-characters/)|
+|108|Heap|5731.座位预约管理系统|中等|[我的解题](Leetcode/_Heap/5731.座位预约管理系统.md)|[点击跳转](https://leetcode-cn.com/problems/seat-reservation-manager/)|
+|109|Array|5732.减小和重新排列数组后的最大元素|中等|[我的解题](Leetcode/_Array/5732.减小和重新排列数组后的最大元素.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/)|
+|110|HashMap|5734.判断句子是否为全字母句|简单|[我的解题](Leetcode/_HashMap/5734.判断句子是否为全字母句.md)|[点击跳转](https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram/)|
+|111|Array|5735.雪糕的最大数量|中等|[我的解题](Leetcode/_Array/5735.雪糕的最大数量.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)|
+|112|Math|5738.K进制表示下的各位数字总和|简单|[我的解题](Leetcode/_Math/5738.K进制表示下的各位数字总和.md)|[点击跳转](https://leetcode-cn.com/problems/sum-of-digits-in-base-k/)|
