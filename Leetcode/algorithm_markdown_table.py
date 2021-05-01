@@ -94,7 +94,7 @@ class MakeAlgorithmMarkdownTable:
 
 if __name__ == '__main__':
     # 历史算法解题目录
-    MARKDOWN_PATH = r'D:\AlgorithmMarkdown\Leetcode'
+    MARKDOWN_PATH = os.getcwd()
     # 例外文件列表
     EXCLUDE_FILES = ['QuickNote.md', 'algorithm_markdown_table.py', 'leetcode.py']
     m = MakeAlgorithmMarkdownTable(MARKDOWN_PATH, EXCLUDE_FILES)
