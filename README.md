@@ -123,3 +123,5 @@
 |110|HashMap|5734.判断句子是否为全字母句|简单|[我的解题](Leetcode/_HashMap/5734.判断句子是否为全字母句.md)|[点击跳转](https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram/)|
 |111|Array|5735.雪糕的最大数量|中等|[我的解题](Leetcode/_Array/5735.雪糕的最大数量.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)|
 |112|Math|5738.K进制表示下的各位数字总和|简单|[我的解题](Leetcode/_Math/5738.K进制表示下的各位数字总和.md)|[点击跳转](https://leetcode-cn.com/problems/sum-of-digits-in-base-k/)|
+|113|Array|5746.到目标元素的最小距离|简单|[我的解题](Leetcode/_Array/5746.到目标元素的最小距离.md)|[点击跳转](https://leetcode-cn.com/problems/minimum-distance-to-the-target-element/)|
+|114|DFS|5747.将字符串拆分为递减的连续值|中等|[我的解题](Leetcode/_DFS/5747.将字符串拆分为递减的连续值.md)|[点击跳转](https://leetcode-cn.com/problems/splitting-a-string-into-descending-consecutive-values/)|
