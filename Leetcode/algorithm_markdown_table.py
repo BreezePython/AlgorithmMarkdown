@@ -88,8 +88,6 @@ class MakeAlgorithmMarkdownTable:
             readme_file.write(MARKDOWN_TABLE_TEMPLATE)
             for index, info in enumerate(self.programs, start=1):
                 readme_file.write("|{}|{}|{}|{}|{}|{}|\n".format(index, *info))
-        for i in self.sidebar_info:
-            print(i)
 
 
 if __name__ == '__main__':
