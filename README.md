@@ -27,7 +27,7 @@
 |14|LinkedList|21.合并两个有序链表|简单|[我的解题](Leetcode/_LinkedList/21.合并两个有序链表.md)|[点击跳转](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|
 |15|Array|26.删除有序数组中的重复项|简单|[我的解题](Leetcode/_Array/26.删除有序数组中的重复项.md)|[点击跳转](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|
 |16|Pointer|28.实现strStr()|中等|[我的解题](Leetcode/_Pointer/28.实现strStr().md)|[点击跳转](https://leetcode-cn.com/problems/implement-strstr/)|
-|17|Array|34.在排序数组中查找元素的第一个和最后一个位置|中等|[我的解题](Leetcode/_Array/34.在排序数组中查找元素的第一个和最后一个位置.md)|[点击跳转](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|
+|17|Array|34.数组中查找元素的第一和最后一个位置|中等|[我的解题](Leetcode/_Array/34.数组中查找元素的第一和最后一个位置.md)|[点击跳转](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|
 |18|DFS|46.全排列|中等|[我的解题](Leetcode/_DFS/46.全排列.md)|[点击跳转](https://leetcode-cn.com/problems/permutations/)|
 |19|DFS|47.全排列II|中等|[我的解题](Leetcode/_DFS/47.全排列II.md)|[点击跳转](https://leetcode-cn.com/problems/permutations-ii/)|
 |20|HashMap|49.字母异位词分组|中等|[我的解题](Leetcode/_HashMap/49.字母异位词分组.md)|[点击跳转](https://leetcode-cn.com/problems/group-anagrams/)|
