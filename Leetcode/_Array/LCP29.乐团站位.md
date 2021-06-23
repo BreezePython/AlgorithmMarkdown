@@ -1,5 +1,5 @@
-# 2. 乐团站位
-> 
+# [LCP29.乐团站位](https://leetcode-cn.com/problems/SNJvJP/)
+> https://leetcode-cn.com/problems/SNJvJP/
 > 
 > 难度：简单
 
@@ -49,16 +49,12 @@ class Solution:
         rounds = min(xPos, yPos, num - 1 - xPos, num - 1 - yPos)
         inner = num - 2 * rounds
         res = num ** 2 - inner ** 2
-
         xPos -= rounds
         yPos -= rounds
-        print(xPos, yPos, inner, res)
         while (xPos != 0):
             res += inner - 1
             xPos, yPos = inner - 1 - yPos, xPos
-
         res += yPos
-        print(res)
         return res % 9 + 1
 ```
 

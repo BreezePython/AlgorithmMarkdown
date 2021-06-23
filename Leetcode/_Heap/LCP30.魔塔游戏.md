@@ -1,5 +1,5 @@
-# LCP30.魔塔游戏
-> https://leetcode-cn.com/problems/p0NxJO/
+# [LCP30.魔塔游戏](https://leetcode-cn.com/problems/p0NxJO/solution/lcp-30-mo-ta-you-xi-biao-zhun-de-xiao-ge-4gkk/)
+> https://leetcode-cn.com/problems/p0NxJO/solution/lcp-30-mo-ta-you-xi-biao-zhun-de-xiao-ge-4gkk/
 > 
 > 难度：中等
 

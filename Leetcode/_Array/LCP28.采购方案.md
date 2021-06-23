@@ -1,7 +1,5 @@
-# LCCUP2021_01.采购方案
-
->
->
+# [LCP28.采购方案](https://leetcode-cn.com/problems/4xy4Wx/solution/)
+> https://leetcode-cn.com/problems/4xy4Wx/solution/
 > 难度：简单
 
 ## 题目：
