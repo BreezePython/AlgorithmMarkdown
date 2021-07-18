@@ -22,6 +22,8 @@ MARKDOWN_TABLE_TEMPLATE = """
 
 我的个人博客：[https://qingfengpython.cn](https://qingfengpython.cn)
 
+PS:题目按照 难度、题号进行排序。
+
 | 编 号  | 分 类 | 题 目 | 难 度 | 我的解题 | 力扣题目链接 |
 | ----- | ----- | ---- | ---- |  ------ |  --------  |
 """
@@ -80,9 +82,18 @@ class MakeAlgorithmMarkdownTable:
             return int(title)
         return 1000
 
+    @staticmethod
+    def sort_level(level_name):
+        level_dict = {"简单": 1, "中等": 2, "困难": 3}
+        return level_dict.get(level_name, 4)
+
     def run(self):
         self.dfs_markdown_path(self.search_path)
-        self.programs.sort(key=lambda x: self.sort_title(x[1]))
+        print(self.programs)
+        try:
+            self.programs.sort(key=lambda x: [self.sort_level(x[2].strip()), self.sort_title(x[1])])
+        except Exception as e:
+            print(e)
         with open(os.path.join(os.path.dirname(self.search_path), "README.md"),
                   'w', encoding='utf-8') as readme_file:
             readme_file.write(MARKDOWN_TABLE_TEMPLATE)
