@@ -140,7 +140,7 @@ PS:题目按照 难度、题号进行排序。
 |125|深搜|46.全排列|中等|[我的解题](Leetcode/深搜/46.全排列.md)|[点击跳转](https://leetcode-cn.com/problems/permutations/)|
 |126|深搜|47.全排列II|中等|[我的解题](Leetcode/深搜/47.全排列II.md)|[点击跳转](https://leetcode-cn.com/problems/permutations-ii/)|
 |127|哈希表|49.字母异位词分组|中等|[我的解题](Leetcode/哈希表/49.字母异位词分组.md)|[点击跳转](https://leetcode-cn.com/problems/group-anagrams/solution/49-zi-mu-yi-wei-ci-fen-zu-hashmapkuai-su-lkkd/)|
-|128|数学|50.Pow(x, n)|中等|[我的解题](Leetcode/数学/50.Pow(x, n).md)|[点击跳转](https://leetcode-cn.com/problems/powx-n/)|
+|128|数学|50.Pow|中等|[我的解题](Leetcode/数学/50.Pow.md)|[点击跳转](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-kuai-su-mi-de-ji-chu-zhi-shi-d-z7ny/)|
 |129|数组|54.螺旋矩阵|中等|[我的解题](Leetcode/数组/54.螺旋矩阵.md)|[点击跳转](https://leetcode-cn.com/problems/spiral-matrix/)|
 |130|贪心|55.跳跃游戏|中等|[我的解题](Leetcode/贪心/55.跳跃游戏.md)|[点击跳转](https://leetcode-cn.com/problems/jump-game/)|
 |131|贪心|56.合并区间|中等|[我的解题](Leetcode/贪心/56.合并区间.md)|[点击跳转](https://leetcode-cn.com/problems/merge-intervals/solution/56he-bing-qu-jian-pai-xu-tan-xin-by-qing-3jm4/)|
