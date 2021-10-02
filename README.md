@@ -106,7 +106,7 @@ PS:题目按照 难度、题号进行排序。
 |91|链表|剑指Offer22.链表中倒数第k个节点|简单|[我的解题](Leetcode/链表/剑指Offer22.链表中倒数第k个节点.md)|[点击跳转](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|
 |92|链表|剑指Offer24.反转链表|简单|[我的解题](Leetcode/链表/剑指Offer24.反转链表.md)|[点击跳转](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)|
 |93|链表|面试题02.01.移除重复节点|简单|[我的解题](Leetcode/链表/面试题02.01.移除重复节点.md)|[点击跳转](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/solution/mian-shi-ti-0201yi-chu-zhong-fu-jie-dian-rnx1/)|
-|94|滑窗|1004.最大连续1的个数III|简单|[我的解题](Leetcode/滑窗/1004.最大连续1的个数III.md)|[点击跳转](https://leetcode-cn.com/problems/number-of-1-bits/)|
+|94|滑窗|1004.最大连续1的个数III|简单|[我的解题](Leetcode/滑窗/1004.最大连续1的个数III.md)|[点击跳转](https://leetcode-cn.com/problems/max-consecutive-ones-iii/solution/1004zui-da-lian-xu-1de-ge-shu-iii-by-qin-9osc/)|
 |95|栈|1021.删除最外层的括号|简单|[我的解题](Leetcode/栈/1021.删除最外层的括号.md)|[点击跳转](https://leetcode-cn.com/problems/remove-outermost-parentheses/solution/1021shan-chu-zui-wai-ceng-de-gua-hao-li-v8c1c/)|
 |96|堆|1046.最后一块石头的重量|简单|[我的解题](Leetcode/堆/1046.最后一块石头的重量.md)|[点击跳转](https://leetcode-cn.com/problems/last-stone-weight/solution/1046zui-hou-yi-kuai-shi-tou-de-zhong-lia-1xub/)|
 |97|哈希表|1436.旅行终点站|简单|[我的解题](Leetcode/哈希表/1436.旅行终点站.md)|[点击跳转](https://leetcode-cn.com/problems/destination-city/)|
@@ -286,6 +286,8 @@ PS:题目按照 难度、题号进行排序。
 |271|贪心|5814.新增的最少台阶数|中等|[我的解题](Leetcode/贪心/5814.新增的最少台阶数.md)|[点击跳转](https://leetcode-cn.com/problems/add-minimum-number-of-rungs/)|
 |272|堆|5839.移除石子使总数最小|中等|[我的解题](Leetcode/堆/5839.移除石子使总数最小.md)|[点击跳转](https://leetcode-cn.com/problems/remove-stones-to-minimize-the-total/)|
 |273|数学|5840.使字符串平衡的最小交换次数|中等|[我的解题](Leetcode/数学/5840.使字符串平衡的最小交换次数.md)|[点击跳转](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/solution/5840shi-zi-fu-chuan-ping-heng-de-zui-xia-7mg5/)|
-|274|栈|32.最长有效括号|困难|[我的解题](Leetcode/栈/32.最长有效括号.md)|[点击跳转](https://leetcode-cn.com/problems/longest-valid-parentheses/solution/32zui-chang-you-xiao-gua-hao-python-bao-tgw1x/)|
-|275|栈|42.接雨水|困难|[我的解题](Leetcode/栈/42.接雨水.md)|[点击跳转](https://leetcode-cn.com/problems/trapping-rain-water/solution/42jie-yu-shui-dan-diao-zhan-jing-dian-bi-i3pe/)|
-|276|栈|面试题17.21.直方图的水量|困难|[我的解题](Leetcode/栈/面试题17.21.直方图的水量.md)|[点击跳转](https://leetcode-cn.com/problems/volume-of-histogram-lcci/solution/mian-shi-ti-1721-zhi-fang-tu-de-shui-lia-3j6z/)|
+|274|滑窗|5873.考试的最大困扰度|中等|[我的解题](Leetcode/滑窗/5873.考试的最大困扰度.md)|[点击跳转](https://leetcode-cn.com/contest/biweekly-contest-62/problems/maximize-the-confusion-of-an-exam/)|
+|275|栈|32.最长有效括号|困难|[我的解题](Leetcode/栈/32.最长有效括号.md)|[点击跳转](https://leetcode-cn.com/problems/longest-valid-parentheses/solution/32zui-chang-you-xiao-gua-hao-python-bao-tgw1x/)|
+|276|栈|42.接雨水|困难|[我的解题](Leetcode/栈/42.接雨水.md)|[点击跳转](https://leetcode-cn.com/problems/trapping-rain-water/solution/42jie-yu-shui-dan-diao-zhan-jing-dian-bi-i3pe/)|
+|277|栈|面试题17.21.直方图的水量|困难|[我的解题](Leetcode/栈/面试题17.21.直方图的水量.md)|[点击跳转](https://leetcode-cn.com/problems/volume-of-histogram-lcci/solution/mian-shi-ti-1721-zhi-fang-tu-de-shui-lia-3j6z/)|
+|278|前缀和|5874.分割数组的最多方案数|困难|[我的解题](Leetcode/前缀和/5874.分割数组的最多方案数.md)|[点击跳转](https://leetcode-cn.com/problems/maximum-number-of-ways-to-partition-an-array/solution/pythonqian-zhui-he-jia-shuang-ha-xi-biao-34uc/)|
