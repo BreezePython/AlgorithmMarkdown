@@ -67,7 +67,7 @@ PS:题目按照 难度、题号进行排序。
 |52|模拟|482.密钥格式化|简单|[我的解题](Leetcode/模拟/482.密钥格式化.md)|[点击跳转](https://leetcode-cn.com/problems/license-key-formatting/solution/482mi-yao-ge-shi-hua-zi-fu-chuan-mo-ni-d-r24m/)|
 |53|数组|485.最大连续1的个数|简单|[我的解题](Leetcode/数组/485.最大连续1的个数.md)|[点击跳转](https://leetcode-cn.com/problems/max-consecutive-ones/solution/485zui-da-lian-xu-1de-ge-shu-yi-ci-bian-jkt8i/)|
 |54|栈|496.下一个更大元素I|简单|[我的解题](Leetcode/栈/496.下一个更大元素I.md)|[点击跳转](https://leetcode-cn.com/problems/next-greater-element-i/solution/496xia-yi-ge-geng-da-yuan-su-i-by-qingfe-qfu9/)|
-|55|字符串|500.键盘行|简单|[我的解题](Leetcode/字符串/500.键盘行.md)|[点击跳转](https://leetcode-cn.com/problems/keyboard-row/)|
+|55|字符串|500.键盘行|简单|[我的解题](Leetcode/字符串/500.键盘行.md)|[点击跳转](https://leetcode-cn.com/problems/keyboard-row/solution/500jian-pan-xing-pythonjava-xun-huan-bi-bk09v/)|
 |56|数组|561.数组拆分I|简单|[我的解题](Leetcode/数组/561.数组拆分I.md)|[点击跳转](https://leetcode-cn.com/problems/array-partition-i/)|
 |57|数组|566.重塑矩阵|简单|[我的解题](Leetcode/数组/566.重塑矩阵.md)|[点击跳转](https://leetcode-cn.com/problems/reshape-the-matrix/)|
 |58|双指针|643.子数组最大平均数I|简单|[我的解题](Leetcode/双指针/643.子数组最大平均数I.md)|[点击跳转](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/)|
@@ -83,7 +83,7 @@ PS:题目按照 难度、题号进行排序。
 |68|数组|821.字符的最短距离|简单|[我的解题](Leetcode/数组/821.字符的最短距离.md)|[点击跳转](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)|
 |69|栈|844.比较含退格的字符串|简单|[我的解题](Leetcode/栈/844.比较含退格的字符串.md)|[点击跳转](https://leetcode-cn.com/problems/backspace-string-compare/)|
 |70|数组|852.山脉数组的峰顶索引|简单|[我的解题](Leetcode/数组/852.山脉数组的峰顶索引.md)|[点击跳转](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/solution/852shan-mai-shu-zu-de-feng-ding-suo-yin-9krsr/)|
-|71|字符串|859.亲密字符串|简单|[我的解题](Leetcode/字符串/859.亲密字符串.md)|[点击跳转](https://leetcode-cn.com/problems/buddy-strings/)|
+|71|字符串|859.亲密字符串|简单|[我的解题](Leetcode/字符串/859.亲密字符串.md)|[点击跳转](https://leetcode-cn.com/problems/buddy-strings/solution/859qin-mi-zi-fu-chuan-pythonjava-jian-ji-4lk1/)|
 |72|贪心|860.柠檬水找零|简单|[我的解题](Leetcode/贪心/860.柠檬水找零.md)|[点击跳转](https://leetcode-cn.com/problems/lemonade-change/solution/860ning-meng-shui-zhao-ling-pythontan-xi-bj83/)|
 |73|二叉树|872.叶子相似的树|简单|[我的解题](Leetcode/二叉树/872.叶子相似的树.md)|[点击跳转](https://leetcode-cn.com/problems/leaf-similar-trees/)|
 |74|双指针|925.长按键入|简单|[我的解题](Leetcode/双指针/925.长按键入.md)|[点击跳转](https://leetcode-cn.com/problems/long-pressed-name/solution/925chang-an-jian-ru-python-java-shuang-z-4cjy/)|
