@@ -22,7 +22,7 @@ PS:题目按照 难度、题号进行排序。
 |7|数组|26.删除有序数组中的重复项|简单|[我的解题](Leetcode/数组/26.删除有序数组中的重复项.md)|[点击跳转](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|
 |8|数组|27.移除元素|简单|[我的解题](Leetcode/数组/27.移除元素.md)|[点击跳转](https://leetcode-cn.com/problems/remove-element/solution/27yi-chu-yuan-su-yi-fen-zhong-jie-ti-by-juwbr/)|
 |9|二分|35.搜索插入位置|简单|[我的解题](Leetcode/二分/35.搜索插入位置.md)|[点击跳转](https://leetcode-cn.com/problems/search-insert-position/solution/35sou-suo-cha-ru-wei-zhi-pythonji-chu-er-c0xq/)|
-|10|数组|66.加一|简单|[我的解题](Leetcode/数组/66.加一.md)|[点击跳转](https://leetcode-cn.com/problems/plus-one/)|
+|10|数组|66.加一|简单|[我的解题](Leetcode/数组/66.加一.md)|[点击跳转](https://leetcode-cn.com/problems/plus-one/solution/66-jia-yi-shu-zu-dao-xu-bian-li-kuai-su-96h6b/)|
 |11|DP|70.爬楼梯|简单|[我的解题](Leetcode/DP/70.爬楼梯.md)|[点击跳转](https://leetcode-cn.com/problems/climbing-stairs/)|
 |12|链表|83.删除排序链表中的重复元素|简单|[我的解题](Leetcode/链表/83.删除排序链表中的重复元素.md)|[点击跳转](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|
 |13|双指针|88.合并两个有序数组|简单|[我的解题](Leetcode/双指针/88.合并两个有序数组.md)|[点击跳转](https://leetcode-cn.com/problems/merge-sorted-array/)|
@@ -174,7 +174,7 @@ PS:题目按照 难度、题号进行排序。
 |159|广搜|102.二叉树的层序遍历|中等|[我的解题](Leetcode/广搜/102.二叉树的层序遍历.md)|[点击跳转](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/102er-cha-shu-de-ceng-xu-bian-li-shen-du-oqy7/)|
 |160|双指针|123.买卖股票的最佳时机III|中等|[我的解题](Leetcode/双指针/123.买卖股票的最佳时机III.md)|[点击跳转](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)|
 |161|深搜|130.被围绕的区域|中等|[我的解题](Leetcode/深搜/130.被围绕的区域.md)|[点击跳转](https://leetcode-cn.com/problems/surrounded-regions/solution/130bei-wei-rao-de-qu-yu-shen-du-you-xian-6h6d/)|
-|162|贪心|134.加油站|中等|[我的解题](Leetcode/贪心/134.加油站.md)|[点击跳转](https://leetcode-cn.com/problems/gas-station/)|
+|162|贪心|134.加油站|中等|[我的解题](Leetcode/贪心/134.加油站.md)|[点击跳转](https://leetcode-cn.com/problems/gas-station/solution/134jia-you-zhan-pythonbao-li-tan-xin-shu-678o/)|
 |163|栈|150.逆波兰表达式求值|中等|[我的解题](Leetcode/栈/150.逆波兰表达式求值.md)|[点击跳转](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/solution/150-ni-bo-lan-biao-da-shi-qiu-zhi-python-o8am/)|
 |164|数组|153.寻找旋转排序数组中的最小值|中等|[我的解题](Leetcode/数组/153.寻找旋转排序数组中的最小值.md)|[点击跳转](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|
 |165|数组|179.最大数|中等|[我的解题](Leetcode/数组/179.最大数.md)|[点击跳转](https://leetcode-cn.com/problems/largest-number/)|
