@@ -91,7 +91,7 @@ class MakeAlgorithmMarkdownTable:
         self.dfs_markdown_path(self.search_path)
         print(self.programs)
         try:
-            self.programs.sort(key=lambda x: [self.sort_level(x[2].strip()), self.sort_title(x[1])])
+            self.programs.sort(key=lambda x: [self.sort_level(x[2].strip()), self.sort_title(x[0])])
         except Exception as e:
             print(e)
         with open(os.path.join(os.path.dirname(self.search_path), "README.md"),
